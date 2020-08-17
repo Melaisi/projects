@@ -1,2 +1,2 @@
 # projects
-A collection of my un-organized projects
+A collection of my previous projects
